@@ -66,6 +66,10 @@ int main() {
     return 0;
 }
 /*
+The Single Producer, Multiple Consumer 
+(SPMC) pattern is a concurrency architectural pattern used to distribute work or data from a single source to multiple worker threads
+or processes efficiently
+------------------------------------------------------
 the Single Producer, Multiple Consumer (SPMC) pattern is the core architectural engine inside most thread pools.
  The Core Difference
  SPMC Pattern:
